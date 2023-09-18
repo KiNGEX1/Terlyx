@@ -18,6 +18,9 @@ while True:
     print(" By KiNGEX | https://GitHub.com/KiNGEX1")
     print("__________________________________________")
     
+    print("▀▀█▀▀ █▀▀ █▀▀█ █── █──█ █─█ ")
+    print("─░█── █▀▀ █▄▄▀ █── █▄▄█ ▄▀▄ ")
+    print("─░█── ▀▀▀ ▀─▀▀ ▀▀▀ ▄▄▄█ ▀─▀")
     print("Options:")
     print("1. Google")
     print("2. Ecosia")
